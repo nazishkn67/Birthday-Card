@@ -1,16 +1,16 @@
-[Birthday Card Sample App](https://github.com/nazishkn67/Birthday-Card#birthday-card-sample=app)
+[Birthday Card Sample App](#birthday-card-sample=app)
 Sample app that displays a birthday card. Used in the Udacity Android for Beginners course.
 
-[Pre-requisites](https://github.com/nazishkn67/Birthday-Card#pre-requisites)
-Android SDK v22
-Android Build Tools v22.0.1
-Android Support Repository v22.1.1
+[Pre-requisites](#pre-requisites)
+- Android SDK v22
+- Android Build Tools v22.0.1
+- Android Support Repository v22.1.1
 
-[Getting Started](https://github.com/nazishkn67/Birthday-Card#getting-started)
+[Getting Started](#getting-started)
 This sample uses the Gradle build system. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
 
 
-[License](https://github.com/nazishkn67/Birthday-Card#license)
+[License](#license)
 Copyright 2015 The Android Open Source Project, Inc.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
